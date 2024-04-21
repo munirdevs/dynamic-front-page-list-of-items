@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/munirdevs/dynamic-front-page-list-of-items/static/css/main.e6c13ad2.css",
+    "main.js": "/munirdevs/dynamic-front-page-list-of-items/static/js/main.3c668949.js",
+    "static/js/453.06411eff.chunk.js": "/munirdevs/dynamic-front-page-list-of-items/static/js/453.06411eff.chunk.js",
+    "index.html": "/munirdevs/dynamic-front-page-list-of-items/index.html",
+    "main.e6c13ad2.css.map": "/munirdevs/dynamic-front-page-list-of-items/static/css/main.e6c13ad2.css.map",
+    "main.3c668949.js.map": "/munirdevs/dynamic-front-page-list-of-items/static/js/main.3c668949.js.map",
+    "453.06411eff.chunk.js.map": "/munirdevs/dynamic-front-page-list-of-items/static/js/453.06411eff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3c668949.js"
+  ]
+}
